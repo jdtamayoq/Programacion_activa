@@ -20,7 +20,7 @@ Para apoyar la implementación de la Programación Activa, se ha desarrollado un
 #### Características del Software
 
 - **Amplia Variedad de Ejercicios**: Con más de 1000 ejercicios, el software cubre desde conceptos básicos hasta avanzados en programación, permitiendo a los estudiantes explorar y dominar diferentes áreas.
-- **Feedback Inmediato**: Cada ejercicio ofrece CONSEJOS inmediatOS, ayudando a los estudiantes a identificar y corregir errores rápidamente.
+- **Feedback Inmediato**: Cada ejercicio ofrece CONSEJOS inmediatos, ayudando a los estudiantes a identificar y corregir errores rápidamente.
 - **Pruebas y Visualización**: El software incluye herramientas de pruebasn que permiten a los estudiantes visualizar la ejecución de su código, facilitando una mejor comprensión de cómo funcionan los algoritmos en la práctica.
 - **Funcionamiento Offline**: El software está diseñado para funcionar sin conexión a internet, lo que permite a los estudiantes practicar y aprender en cualquier lugar, sin necesidad de acceso continuo a la red.
 
